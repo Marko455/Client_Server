@@ -1,0 +1,36 @@
+Postupak:
+
++ KLIJENT:
+
+Postavite kursor konzole na desktop
+Kreiraj mapu „Client”
+Uđite u mapu
+komanda – npm init
+komanda – npm install axios
+Kreiraj file „index.js”
+Zatvori konzolu
+Otvori mapu u VSCodeu
+Kopiraj s Merlina dani resurs
+
++ SERVER:
+
+Postavite kursor konzole na desktop
+Kreiraj mapu „Service”
+Uđite u mapu
+Kreiraj mapu „handlers”
+Kreiraj mapu „models”
+komanda – npm init
+komanda – npm install express
+Kreiraj file „index.js”
+U package.json file, unijeti: "type": "module"
+Zatvori konzolu
+Otvori mapu u VSCodeu
+Kopiraj s Merlina dane resurse
+
+----------------------------------------
++ VSC:
+
+- nakon te dvije mape, u oba dva terminal client/service index.js zasebno unijeti naredbu:
+  'node index.js'
+
+- predati samo client index.js    // jer je tu rjesenje zadatka
